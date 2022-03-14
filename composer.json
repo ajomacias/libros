@@ -1,0 +1,10 @@
+{
+    "name": "anderson/libros",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anderson\\Libros\\": "src/"
+        }
+    },
+    "require": {}
+}
